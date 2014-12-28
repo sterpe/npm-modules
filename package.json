@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz-stream",
+  "version": "0.0.2",
+  "description": "fizzbuzz-stream ===============",
+  "main": "fizzbuzz-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterpe/npm-modules.git"
+  },
+  "author": "Steven Terpe <srterpe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterpe/npm-modules/issues"
+  },
+  "homepage": "https://github.com/sterpe/npm-modules"
+}
