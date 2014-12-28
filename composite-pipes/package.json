@@ -1,0 +1,19 @@
+{
+  "name": "composite-pipes",
+  "version": "0.4.2",
+  "description": "composite-pipes ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterpe/npm-modules.git"
+  },
+  "author": "Steven Terpe <srterpe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterpe/npm-modules/issues"
+  },
+  "homepage": "https://github.com/sterpe/npm-modules"
+}

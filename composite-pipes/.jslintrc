@@ -1,0 +1,8 @@
+{
+  "indent": 2,
+  "maxlen": 80,
+  "node": true,
+  "nomen": true,
+  "unparam": true,
+  "white": true
+}
